@@ -1,0 +1,7 @@
+Bonjour Madame, j'espère que vous allez bien. Pour vous 
+assurer que tout fonctionne correctement, je vous recommande 
+d'utiliser XAMPP comme serveur et de démarrer Apache et SQL. 
+Ensuite, vous pouvez importer le fichier SQL dans phpMyAdmin. 
+Veuillez noter qu'il est important que le nom de la base de 
+données soit "shop_db". Ensuite, vous pourrez facilement 
+accéder au site en visitant localhost dans votre navigateur. Merci 
